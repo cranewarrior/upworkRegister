@@ -1,0 +1,85 @@
+{
+    "first_name": "Victor",
+    "last_name": "Nordstom",
+    "professional": "Full-Stack Development | Blockchain Development | Amazon Web Services",
+    "overview": "A web3 developer with a passion in building experience in web3, metaverse and NFT.\nHave strength in integrating web3 & backend and providing higher performance using indexing protocols and third-party APIs like Moralis API, the Graph,  QuckNode and Geyser.\nA dedicated full stack developer with 7+ years of total experience in AWS/backend/frontend development, architectural design, and database administration.\nGood sense in the responsive and the better UX.\nStrong creative and analytical skills.",
+    "country": "Canada",
+    "hourRate": "50",
+    "workXP": [
+        [
+            "Full Stack Blockchain Developer",
+            "Improbable Company",
+            "London",
+            "United Kingdom",
+            "2021.3",
+            "2023.5",
+            "Full Stack Blockchain Developer\nImprobable Company\nImprobable is a technology company that provides a metaverse platform designed to offer virtual gaming experiences.\nWorked on NFT minting/staking platforms on Ethereum, Solana, and Polygon networks.\nBuild NFT marketplaces on both Ethereum and Solana networks.\nImproved performance by integrating the Moralis API, Graph protocol, and QuickNode APIs.\nWith the fast development of landing/minting pages and NFT contracts and deployment and hosting of the platforms onto the cloud, could bring the platforms into the booming NFT market in a short time and bring the good sales to distributors.\nUsed python, FastAPI and SQLAlchemy also to build the backend APIs.\nImplemented staking/breeding/airdrop with ERC20 tokens and SPL tokens as rewards."
+        ],
+        [
+            "Blockchain Developer",
+            "Figment Company",
+            "Toronto",
+            "Canada",
+            "2019.1",
+            "2021.2",
+            "Blockchain Developer\nFigment Company\nFigment supports the adoption, growth and long term success of the Web3 ecosystem.\nDeveloped token and DEX platform on Ethereum network.\nExtended the DEX platform onto Polygon.\nDeveloped a bridge to cross-operate the token on multiple networks.\nIntegrated contract using web3.js.\nDeveloped wrapped token and DEX platform using project-serum on Solana network."
+        ],
+        [
+            "Full Stack Developer",
+            "UniClinic Company",
+            "London",
+            "United Kingdom",
+            "2017.2",
+            "2019.11",
+            "Full Stack Developer\nUniClinic Company\nUniClinic is a medical clinic that offers physiotherapy, gynecology, heart problem treatment, health diagnostics, and digestive treatment.\nDeveloped an integrated social network platform.\nBuilt integrated dashboard for the different social networks.\nEnabled switching of multiple social accounts.\nBoosted the sales by 20% by developing a scheduled post feature that posts content onto different social platforms regularly.\nUpgraded the legacy website into the modern web app using MERN stack.\nIntegrated third-party APIs including Facebook, Twitter, Linkedin, and Instagram."
+        ]
+    ],
+    "education": [
+        [
+            "University of Toronto",
+            "Bachelor of Computer Science (BCompSc)",
+            "Computer science",
+            "2013",
+            "2017"
+        ]
+    ],
+    "languages": [
+        [
+            "Cantonese",
+            "4"
+        ]
+    ],
+    "skills": [
+        "MERN Stack",
+        "Full-Stack Development",
+        "LAMP Stack",
+        "MEAN Stack",
+        "Ecommerce Website",
+        "Back-End Development",
+        "Django Stack",
+        "Amazon Web Services",
+        "Rust",
+        "Python",
+        "Web3",
+        "Blockchain Development",
+        "Smart Contract",
+        "Web Development",
+        "Cryptocurrency"
+    ],
+    "services": [
+        "Database Management & Administration",
+        "Desktop Application Development",
+        "DevOps & Solution Architecture",
+        "Web Development",
+        "Web & Mobile Design",
+        "Network & System Administration",
+        "Blockchain, NFT & Cryptocurrency",
+        "Ecommerce Development"
+    ],
+    "street": "131 Bremner Blvd",
+    "zipcode": "M5J 3A7",
+    "city": "Toronto",
+    "state": "Ontario",
+    "location": "Canada",
+    "phone": "6473525252"
+}
